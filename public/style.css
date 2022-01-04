@@ -1,0 +1,67 @@
+.s-icon li {
+    list-style: none;
+    display: inline-block;
+    color: #69DEA7;
+    border: 1px solid #69dea785;
+    padding: 8px 12px;
+    margin: 0 10px;
+    border-radius: 8px;
+}
+.footer-text {
+    color: #69dea7;
+}
+.footer {
+    background: #000;
+    padding: 34px 0;
+}
+.banner-heading {
+    font-size: 24px;
+    color: #fff;
+}
+.banner-text {
+    color: #AEFFD9;
+    font-size: 14px;
+}
+.main-body {
+    background: #000;
+}
+.primary-btn {
+    background: radial-gradient(#619d14, #00371d);
+    border: none;
+    border-radius: 3px;
+    color: #fff;
+    padding: 8px 25px;
+    font-size: 18px;
+    font-weight: 400;
+}
+.secondary-btn {
+    background: radial-gradient(#b08d1d, #372900);
+    border: none;
+    border-radius: 3px;
+    color: #fff;
+    padding: 8px 25px;
+    font-size: 18px;
+    font-weight: 400;
+}
+.netbnner {
+    background: url(images/nerb.png)no-repeat;
+    width: 100%;
+    height: 198px;
+    background-size: cover;
+}
+.sub-card {
+    text-align: center;
+}
+.sub-card h2 {
+    font-size: 20px;
+    color: #fff;
+}
+.sub-card p {
+    color: #CFFF9E;
+}.netbnner2 {
+    background: url(images/MaskGroup.png)no-repeat;
+    width: 100%;
+    height: 322px;
+    background-size: cover;
+
+}
