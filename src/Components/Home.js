@@ -41,7 +41,7 @@ function Home() {
                     </Col>
                     <Col md={4}>
                         <div className="sub-card">
-                            <img className="" src="images/bns.png"/>
+                            <img className="" src="images/bns2.png"/>
                             <h2>Apemex Network</h2>
                             <p className="">Easy going</p>
                             <button className="primary-btn">Buy UMX</button>
@@ -49,7 +49,7 @@ function Home() {
                     </Col>
                     <Col md={4}>
                         <div className="sub-card">
-                            <img className="" src="images/bns.png"/>
+                            <img className="" src="images/bns3.png"/>
                             <h2>Farm Space</h2>
                             <p className="">Easy going</p>
                             <button className="secondary-btn">Buy UMX</button>
